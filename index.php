@@ -8,6 +8,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="vista/assets/css/proyecto3.css">
+    <link rel="stylesheet" href="vista/assets/css/all.min.css">
+
 
     <title>Proyecto 3</title>
   </head>
@@ -15,7 +18,9 @@
 
     <?php
     
-    
+    include "vista/modulos/Navbar3.php";
+    include "vista/modulos/InicioSesion.php";
+    include "vista/modulos/piedepagina.php";
 
     ?>
 
